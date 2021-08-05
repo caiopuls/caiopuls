@@ -1,6 +1,6 @@
 
 <p>
-   <!--<img src="/docs/banner.png" alt="CL Thumb" border="0" width="100%"> -->
+   <img src="/docs/banner.png" alt="CL Thumb" border="0" width="100%">
 </p>
 
 ## About me...
