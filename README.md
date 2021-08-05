@@ -11,7 +11,7 @@ r.png" alt="Thumb" border="0" width="100%">
 <a href="https://instagram.com/caiogarciap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiogarciap" height="30" width="40" /></a>
 </p>                                  
 
-My name is **Caio Garcia**. I'm a web developer w/ 15y old who's looking for new opportunities and improve myself! <br />
+My name is **Caio Garcia**. I'm a web developer w/ 15y old who's looking for new opportunities and improving myself! <br />
 + Coding since 13y
 + +5 web projects sold (2021)
                                           
