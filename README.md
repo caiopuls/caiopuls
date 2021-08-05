@@ -4,23 +4,42 @@
 r.png" alt="Thumb" border="0" width="100%">
 </p>
 
-## About me...
+# About me
+                                          
+<p align="left">
+<a href="https://linkedin.com/in/caiogarciap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiogarciap" height="30" width="40" /></a>
+<a href="https://instagram.com/caiogarciap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiogarciap" height="30" width="40" /></a>
+</p>                                  
 
-**I'm Caio Garcia**  
-15y dev & entrepreneur
+My name is **Caio Garcia**. I'm a web developer w/ 15y old who's looking for new opportunities and improve myself! <br />
++ Coding since 13y
++ +5 web projects sold (2021)
+                                          
 
-My [Linkedin](https://www.linkedin.com/in/caiogarciap/) for 💼 stuff  
   
 <!--<img src="/docs/profile2.png" align="left" border="0" width="50px">**CEO of ArcanoPay** <br>🏆 The 1º Payment Plataform with Blockchain in the World. -->
 
-- **My 🎓 and 🏅**  
-<!--🎓 [**Harvard: Curso harvard ou similar**](http://example.com.br) - 25h - 2019 -->
-<!--🏅 [**Olimpiadas de Informatica**](https://olimpiada.ic.unicamp.br) - 20° - 2020 -->  
-<!--💻 [**CURSO** - Titulo](http://example.com.br) - year  -->
-<!--📋 [Projeto](https://github.com/Al0nnso/Al0nnso/blob/master/docs/photoshop-ZeroToAdvanced.pdf) - 12h  -->
+### Some projects
+* 🌐 [ReInvest Consórcios](https://reinvestconsorcios.com)
+* 🌐 [Vest Search Engine](https://vest-search-engine.vercel.app)
 
-- Favourites tools:  
-<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/><img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" width="20"/> <b>React JS, Next JS</b>   
-<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>  
-<img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node JS</b>  
-🐍 <b>Python</b>  
+## Knowledge
+* 🎓 Web development course at [Udemy](https://www.udemy.com/course/curso-web/)
+* 🎓 Exchange student of Inha University (fall semester, 2019)
+<!-- * 👨‍💻 add... -->
+
+## 🏆 Recent achievements
+<!--* 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)-->
+<!-- * 🥉 **Outro torneio (2020)** (as co-author) -->
+<!-- * 🥉 **[Torneio](https://app.hackjunction.com/events/junctionx-seoul) -->
+
+## 🛠️ Skills
+### Experienced with
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/d5bd7ee34ab0250c1613c61add0f937fb4917cde97e77cb0e86c634fec22b4e9/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67" alt="nextjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+                                                                                                                                                      
+### Familiar with
+<p align="left">   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> </a>  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+## My profile
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogarciap)](https://github.com/anuraghazra/github-readme-stats)
+
