@@ -25,7 +25,7 @@ My name is **Caio Garcia**. I'm a web developer w/ 15y old who's looking for new
 
 ## Knowledge
 * 🎓 Web development course at [Udemy](https://www.udemy.com/course/curso-web/)
-* 🎓 Exchange student of Inha University (fall semester, 2019)
+<!-- * 🎓 Exchange student of Inha University (fall semester, 2019) -->
 <!-- * 👨‍💻 add... -->
 
 ## 🏆 Recent achievements
