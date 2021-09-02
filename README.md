@@ -27,11 +27,11 @@ My name is **Caio Garcia**. I'm a web developer w/ 15y old who's looking for new
 * 🎓 Web development course at [Udemy](https://www.udemy.com/course/curso-web/)
 <!-- * 🎓 Exchange student of Inha University (fall semester, 2019) -->
 <!-- * 👨‍💻 add... -->
-
-## 🏆 Recent achievements
-<!--* 📃 **[2021 KIEE 52nd Summer Conference](https://conf.kiee.or.kr/) Excellence Award** (as co-author)-->
-<!-- * 🥉 **Outro torneio (2020)** (as co-author) -->
-<!-- * 🥉 **[Torneio](https://app.hackjunction.com/events/junctionx-seoul) -->
+                                                               
+## My profile
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogarciap)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/caiogarciap/caiogarciap/blob/output/github-contribution-grid-snake.svg)
+                                                                      
 
 ## 🛠️ Skills
 ### Experienced with
@@ -40,7 +40,4 @@ My name is **Caio Garcia**. I'm a web developer w/ 15y old who's looking for new
 ### Familiar with
 <p align="left">   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> </a>  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## My profile
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogarciap)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
