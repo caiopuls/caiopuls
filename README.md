@@ -20,7 +20,7 @@ r.png" alt="Thumb" border="0" width="100%">
   <img align="left" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </p> <br />
-<p align="left">My name is Caio Garcia. I'm a web developer w/ 15y old who's looking for new opportunities and improving myself!</p> <br />                                  
+<p align="left">My name is Caio Garcia. I'm a web developer w/ 16y old who's looking for new opportunities and improving myself!</p> <br />                                  
                                                                
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogarciap)](https://github.com/anuraghazra/github-readme-stats)
                     
