@@ -22,7 +22,7 @@ r.png" alt="Thumb" border="0" width="100%">
   </p> <br />
 <p align="left">My name is Caio Puls. I'm a web developer w/ 16y old who's looking for new opportunities and improving myself!</p> <br />                                  
                                                                
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogarciap)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiopuls)](https://github.com/anuraghazra/github-readme-stats)
                     
 ### Some projects
 * 🌐 [ReInvest Consórcios](https://reinvestconsorcios.com)
